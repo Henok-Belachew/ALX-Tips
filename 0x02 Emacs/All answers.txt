@@ -1,0 +1,22 @@
+
+Filename      | Commands 
+---------------------------
+cutting       |   C-k
+opening       |   C-x C-f
+pasting       |   C-y
+quitting      |   C-x C-c
+saving        |   C-x C-s
+searching     |   C-s
+undoing       |   C-x u
+
+Your-Task: Storing each command in a separate file.
+
+Here is how: 
+
+Tip: Navigate to /root and create a directory named 0x02_emacs 
+then do: echo "filename" >> "Commands" for each line. 
+
+
+
+
+
