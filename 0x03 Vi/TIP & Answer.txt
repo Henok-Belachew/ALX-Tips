@@ -1,0 +1,28 @@
+
+Task No. |    Filename             | Commands 
+-----------------------------------------------
+  1.     | inserting               |   i
+  2.     | cutting                 |   dd
+  3.     | pasting                 |   p
+  4.     | undoing                 |   *u
+  5.     | exiting                 |   :q
+  6.     | beginning_of_the_line   |   w
+  7.     | end_of_the_line         |   $
+----------------------------------------------- 
+
+Your-Task: Storing each command in a separate file in 0x03_vi directory.
+
+Here is how: 
+
+Navigate to /root and create a directory named 0x03_vi
+then do: 
+
+    echo "filename" >> "Command" for each row of the above table. 
+________________________________________________________________________
+
+Concider following me on github to get tips for the comming projects. 
+
+Link: https://github.com/Henok-Belachew
+
+
+

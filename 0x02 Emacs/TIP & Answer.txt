@@ -1,0 +1,32 @@
+
+Task No. | Filename      | Commands 
+--------------------------------------
+   1.    | opening       |   C-x C-f
+   2.    | saving        |   C-x C-s
+   3.    | cutting       |   C-k
+   4.    | pasting       |   C-y
+   5.    | searching     |   C-s
+   6.    | undoing       |   C-x u
+   7.    | quitting      |   C-x C-c
+--------------------------------------
+
+Your-Task: Storing each command in a separate file in 0x02_emacs.
+
+Here is how: 
+
+Navigate to /root and create a directory named 0x02_emacs 
+then do: 
+
+   echo "filename" >> "Command" for each row of the above table. 
+
+________________________________________________________________________
+
+Concider following me on github to get tips for the comming projects. 
+
+Link: https://github.com/Henok-Belachew
+
+
+
+
+
+
