@@ -17,10 +17,10 @@ Here is how:
 Navigate to /root and create a directory named 0x03_vi
 then do: 
 
-    echo "filename" >> "Command" for each row of the above table. 
+    echo "command" >> "filename" for each row of the above table. 
 ________________________________________________________________________
 
-Concider following me on github to get tips for the comming projects. 
+Consider following me on github to get tips for the comming projects. 
 
 Link: https://github.com/Henok-Belachew
 
