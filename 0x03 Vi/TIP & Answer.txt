@@ -18,11 +18,7 @@ Navigate to /root and create a directory named 0x03_vi
 then do: 
 
     echo "command" >> "filename" for each row of the above table. 
-________________________________________________________________________
 
-Consider following me on github to get tips for the comming projects. 
-
-Link: https://github.com/Henok-Belachew
 
 
 
