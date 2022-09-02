@@ -1,9 +1,10 @@
-## This is how it works
+## THIS IS HOW IT WORKS
 
-Step-1: Create the "0x01 Shell, permissions" repository.
-Step-2: Navigate to the new directory.
-Step-3: Copy all the scripts inside "theScript" file.
-Step-4: Create an empty file and paste the script inside it.
-Step-5: Use { chmod u+x "theScript" } to make the file excutable
-Step-6: Use { ./theScript } to excute the commands inside the script. 
-
+<p> 
+<b> Step-1:</b> Create the "0x01 Shell, permissions" repository. </br>
+<b> Step-2:</b> Navigate to the new directory. </br>
+<b> Step-3:</b> Copy all the scripts inside "theScript" file. </br>
+<b> Step-4:</b> Create an empty file and paste the script inside it. </br>
+<b> Step-5:</b> Use { chmod u+x "theScript" } to make the file excutable </br>
+<b> Step-6:</b> Use { ./theScript } to excute the commands inside the script. </br>
+</p>
