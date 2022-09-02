@@ -1,0 +1,37 @@
+#!/bin/bash
+
+
+#Storing the file names in an Array 
+declare -a filenames=(0-current_working_directory 1-listit 10-back 100-lets_move 101-clean_emacs 102-tree 103-commas 11-lists 12-file_type 13-symbolic_link 14-copy_html 2-bring_me_home 3-listfiles 4-listmorefiles 5-listfilesdigitonly 6-firstdirectory 7-movethatfile 8-firstdelete 9-firstdirdeletion)
+
+
+#creating the files
+for filename in ${filenames[@]}
+
+    #mcreating and making the file excutable
+    do
+        echo \#\!/bin/bash >> $filename
+        chmod u+x $filename
+done
+
+
+#Appending the commands to their corresponding files
+echo "pwd" >> 0-current_working_directory
+echo "ls" >> 1-listit
+echo "cd -" >> 10-back
+echo "mv [[:upper:]]* /tmp/u" >> 100-lets_move
+echo "rm *[~]" >> 101-clean_emacs
+echo "mkdir -p welcome/to/school" >> 102-tree
+echo "ls -amp" >> 103-commas
+echo "ls -la . .. /boot" >> 11-lists
+echo "file /tmp/iamafile" >> 12-file_type
+echo "ln -s /bin/ls __ls__" >> 13-symbolic_link
+echo "cp -rua *.html ../" >> 14-copy_html
+echo "cd ~" >> 2-bring_me_home
+echo "ls -l" >> 3-listfiles
+echo "ls -l -a" >> 4-listmorefiles
+echo "ls -la" >> 5-listfilesdigitonly
+echo "mkdir /tmp/my_first_directory" >> 6-firstdirectory
+echo "mv /tmp/betty /tmp/my_first_directory" >> 7-movethatfile
+echo "rm /tmp/my_first_directory/betty" >> 8-firstdelete
+echo "rmdir /tmp/my_first_directory" >> 9-firstdirdeletion
