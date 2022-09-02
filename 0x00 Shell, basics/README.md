@@ -1,4 +1,6 @@
-## THIS IS HOW IT WORKS <img width="35"src="https://toppng.com/uploads/preview/image-result-for-tips-icon-tips-icon-white-11562972429ayurgqmzbk.png"> 
+<h1> THIS IS HOW IT WORKS <img width="35"src="https://toppng.com/uploads/preview/image-result-for-tips-icon-tips-icon-white-11562972429ayurgqmzbk.png"> </h1>
+
+******
 
 <p> 
 <b> Step-1:</b> Open your terminal and create the "<b>0x00-shell_basics</b>" directory. </br>
@@ -10,7 +12,7 @@
 
 You can use the same procedure to use <b> rmScript </b> which deletes all the </br> files you created using <b>theScript</b></br>
 
-<img width="30" src="https://www.pinclipart.com/picdir/middle/562-5626043_index-finger-pointing-black-and-white-finger-clipart.png">Check <b>0x00-shell_basics</b> directory to see the files you can create using <b>theScript</b> bash script.
+<img width="35" src="https://www.pinclipart.com/picdir/middle/562-5626043_index-finger-pointing-black-and-white-finger-clipart.png">Check <b>0x00-shell_basics</b> directory to see the files you can create using <b>theScript</b> bash script.
 
 </p>
 
