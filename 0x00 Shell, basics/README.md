@@ -8,6 +8,9 @@
 <b> Step-5:</b> Use { <b>chmod u+x "theScript"</b> } to make the file excutable </br>
 <b> Step-6:</b> Use { <b>./theScript </b>} to excute the commands inside the script. </br>
 
-You can use the same procedure to use <b> rmScript </b> which deletes all the </br> files you created using <b>theScript</b>
+You can use the same procedure to use <b> rmScript </b> which deletes all the </br> files you created using <b>theScript</b></br>
+
+<ul>Check <b>0x00-shell_basics</b> directory to see the files you can create using <b>theScript</b> bash script.</ul>
+
 </p>
 
