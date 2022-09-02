@@ -1,6 +1,6 @@
 <h1> THIS IS HOW IT WORKS <img width="35"src="https://toppng.com/uploads/preview/image-result-for-tips-icon-tips-icon-white-11562972429ayurgqmzbk.png"> </h1>
 
-******
+
 
 <p> 
 <b> Step-1:</b> Open your terminal and create the "<b>0x00-shell_basics</b>" directory. </br>
